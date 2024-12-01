@@ -1,6 +1,8 @@
 <img src="./.assets/christmas_ferris.png" width="164">
 
-# 🎄 Advent of Code {year}
+# 🎄 Advent of Code 2024
+
+![Alt Text](https://i.makeagif.com/media/7-11-2024/32xDLW.gif)
 
 Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.rust-lang.org/).
 
